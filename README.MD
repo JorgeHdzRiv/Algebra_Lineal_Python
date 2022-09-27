@@ -28,7 +28,7 @@ El popular paquete matemático de Python, nos va a permitir crear vectores, matr
 
 **array(object[, dtype, copy, order, subok, ...])**
 
-Crar una matriz.
+Crear una matriz.
 
 **linalg.solve(a, b)**
 
@@ -56,11 +56,11 @@ Es una interfaz basada en estados para matplotlib. Proporciona una forma implíc
 
 [Documentacion](https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.html#)
 
-**plot(*args[, scalex, scaley, data])**
+**plot(args[, scalex, scaley, data])**
 
 Trazar y versus x como líneas y/o marcadores.
 
-**axis(*args[, emit])**
+**axis(args[, emit])**
 
 Método de conveniencia para obtener o establecer algunas propiedades del eje.
 
