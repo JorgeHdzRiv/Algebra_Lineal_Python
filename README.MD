@@ -24,6 +24,14 @@ Los Tensores:En algunos casos necesitaremos una matriz con más de dos ejes. En 
 El popular paquete matemático de Python, nos va a permitir crear vectores, matrices y tensores con suma facilidad.
 
 
+# Temario
+
+## Sistemas de ecuaciones lineales
+
+### Ecuaciones lineales y representacion geometrica
+
+* [Ecuaciones Lineales](./Ecuaciones_Lineales_Geometria.ipynb)
+
 
 
 
