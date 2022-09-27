@@ -17,11 +17,52 @@ Las Matrices: Una matriz es un arreglo bidimensional de números (llamados entra
 
 Los Tensores:En algunos casos necesitaremos una matriz con más de dos ejes. En general, una serie de números dispuestos en una cuadrícula regular con un número variable de ejes es conocido como un tensor.
 
-# Librerias para el algebra lineal y metodos que se usararan
+# Librerias para el algebra lineal y metodos que se usaran
 
 ## Numpy
 
 El popular paquete matemático de Python, nos va a permitir crear vectores, matrices y tensores con suma facilidad.
+
+[Documentacion](https://numpy.org/doc/stable/reference/routines.html#)
+
+
+**array(object[, dtype, copy, order, subok, ...])**
+
+Crar una matriz.
+
+**linalg.solve(a, b)**
+
+Resuelve una ecuación de matriz lineal, o sistema de ecuaciones escalares lineales.
+
+Calcula la solución "exacta", x, de la ecuación de matriz lineal bien determinada, es decir, de rango completo, ax = b.
+
+**numpy.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None, axis=0)**
+
+Devuelva números espaciados uniformemente durante un intervalo especificado.
+
+Devuelve muestras espaciadas numéricamente uniformemente, calculadas sobre el intervalo [start, stop].
+
+Opcionalmente, se puede excluir el extremo del intervalo.
+
+
+
+
+
+
+
+## Matplotlib.pyplot
+
+Es una interfaz basada en estados para matplotlib. Proporciona una forma implícita, similar a MATLAB, de trazar. También abre figuras en su pantalla y actúa como el administrador de GUI de figuras.
+
+[Documentacion](https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.html#)
+
+**plot(*args[, scalex, scaley, data])**
+
+Trazar y versus x como líneas y/o marcadores.
+
+**axis(*args[, emit])**
+
+Método de conveniencia para obtener o establecer algunas propiedades del eje.
 
 
 # Temario
