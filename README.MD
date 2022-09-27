@@ -30,7 +30,7 @@ El popular paquete matemático de Python, nos va a permitir crear vectores, matr
 
 ### Ecuaciones lineales y representacion geometrica
 
-* [Ecuaciones Lineales](./Ecuaciones_Lineales_Geometria.ipynb)
+* [Ecuaciones Lineales](./Notebooks/Ecuaciones_Lineales_Geometria.ipynb)
 
 
 
