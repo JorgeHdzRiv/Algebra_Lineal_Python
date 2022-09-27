@@ -32,6 +32,12 @@ El popular paquete matemático de Python, nos va a permitir crear vectores, matr
 
 * [Ecuaciones Lineales](./Notebooks/Ecuaciones_Lineales_Geometria.ipynb)
 
+### Gauss-Jordan
+
+* [Gauss_Jordan](./Notebooks/Gauss_Jordan.ipynb)
+
+
+
 
 
 
