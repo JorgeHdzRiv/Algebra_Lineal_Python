@@ -77,6 +77,14 @@ Método de conveniencia para obtener o establecer algunas propiedades del eje.
 
 * [Gauss_Jordan](./Notebooks/Gauss_Jordan.ipynb)
 
+## Matrices
+
+### Matriz
+
+* [Que es una matriz](./Notebooks/Matriz.ipynb)
+
+
+
 
 
 
