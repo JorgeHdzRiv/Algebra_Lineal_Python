@@ -87,6 +87,10 @@ Método de conveniencia para obtener o establecer algunas propiedades del eje.
 
 * [Suma de matrices](./Notebooks/Suma_Matrices.ipynb)
 
+### Multiplicacion de matrices
+
+* [Multiplicacion Matrices](./Notebooks/Multiplicacion_Matrices.ipynb)
+
 
 
 
