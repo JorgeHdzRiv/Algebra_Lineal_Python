@@ -91,6 +91,10 @@ Método de conveniencia para obtener o establecer algunas propiedades del eje.
 
 * [Multiplicacion Matrices](./Notebooks/Multiplicacion_Matrices.ipynb)
 
+### Inversa de una matriz
+
+* [Inversa de una matriz](./Notebooks/Inversa.ipynb)
+
 
 
 
