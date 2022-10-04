@@ -95,6 +95,12 @@ Método de conveniencia para obtener o establecer algunas propiedades del eje.
 
 * [Inversa de una matriz](./Notebooks/Inversa.ipynb)
 
+## Determinantes
+
+### Que es un determinante
+
+* [Determinante](./Notebooks/Determinante.ipynb)
+
 
 
 
