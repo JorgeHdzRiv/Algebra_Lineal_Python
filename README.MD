@@ -101,6 +101,9 @@ Método de conveniencia para obtener o establecer algunas propiedades del eje.
 
 * [Determinante](./Notebooks/Determinante.ipynb)
 
+### Regla de Cramer
+
+* [Cramer](./Notebooks/Cramer.ipynb)
 
 
 
